@@ -200,7 +200,7 @@ th, td {
   animation: scroll 1s ease-in-out; }
 
 #i1:checked ~ #nav_slide #dot1 {
-  background: #795548; }
+  background: #FFBB00; }
 
 #i2:checked ~ #nav_slide #dot2 {
   background: #F44336; }
@@ -333,6 +333,6 @@ th, td {
   margin-right: 200px;
   background: rgba(0,0,0,0.5);
   padding: 20px;
-  margin-bottom: 160px;
+  margin-bottom: 200px;
 }
 /* End colours section */
