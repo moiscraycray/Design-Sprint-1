@@ -9,4 +9,5 @@ These included wireframe, typography, and colours.
 ## Acknowledgments
 
 Mayur Birle - [Responsive CSS3 Slider](https://codepen.io/mayurbirle/pen/NvXKPq)
-Dudley Storey - [Fullscreen HTML5 Page Background Video](https://codepen.io/dudleystorey/pen/knqyK)
+
+Dudley Storey - [FullScreen YouTube Video Background In Pure CSS](https://codepen.io/dudleystorey/details/PZyMrd)
